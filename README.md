@@ -1,0 +1,1 @@
+# vk_list_of_friends
